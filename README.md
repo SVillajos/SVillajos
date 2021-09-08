@@ -15,6 +15,18 @@
 - 📫 Contact me at s.villajos92@gmail.com
 
 ---
+  
+#### 🧰 Toolbox
+
+These are some of the major technologies and tools that I work with:
+
+
+
+---
+
+
+
+
 
 <!---
 SVillajos/SVillajos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
