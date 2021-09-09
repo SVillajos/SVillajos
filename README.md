@@ -24,8 +24,11 @@ These are some of the major technologies and tools that I work with:
 
 ---
 
+#### :octocat: My Github Stats
 
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SVillajos&count_private=true&layout=compact&show_icons=true&count_private=true&icon_color=0D1117&text_color=0D1117&bg_color=FFFFFF&title_color=0D1117&icon_color=0D1117&langs_count=4")](https://github.com/anuraghazra/github-readme-stats)
 
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVillajos&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=0D1117&icon_color=0D1117&text_color=0D1117&bg_color=FFFFFF")](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
