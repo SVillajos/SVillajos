@@ -58,7 +58,7 @@ I am <a href="https://github.com/SVillajos" target="_blank">Samuel Villajos</a>,
 ---
 
 #### :octocat: My Github Stats
-<br/>
+
 <diV>
   <div align="center">
     <a href="#"><img alt="Samuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SVillajos&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=0D1117&icon_color=0D1117&text_color=0D1117&bg_color=FFFFFF"/></a>
