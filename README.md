@@ -13,6 +13,8 @@ I am <a href="https://github.com/SVillajos" target="_blank">Samuel Villajos</a>,
     <a href="https://github.com/SVillajos" target="_blank"><img src="https://img.shields.io/github/followers/SVillajos?label=follow&style=social"></a> 
 </p>
 
+<br/>
+
 ---
 
 #### 👨‍💼 About me 
