@@ -7,17 +7,13 @@
 I am <a href="https://github.com/SVillajos" target="_blank">Samuel Villajos</a>, an aspiring full stack developer based in Madrid. I love to learn and contribute in any and every possible way.
 </p>
 
-<p  <!---align="center"--->   
+<p  align="center">   
     <a href="https://www.linkedin.com/in/samuel-villajos-garrido-26670764" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-  square&logo=Linkedin&logoColor=white"></a>
     <a href="mailto:s.villajos92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a> 
     <!---<a href="https://github.com/SVillajos" target="_blank"><img src="https://img.shields.io/github/followers/SVillajos?label=follow&style=social"></a>--->
 </p>
 
 <br/>
-
----
-
-#### 👨‍💼 About me 
 
 - 👨‍💻 I am passionate about `Web Dev` & I enjoy learning new things
 - 🌱 I’m currently exploring and gaining Web Dev experience and learning `JavaScript and React`
