@@ -10,7 +10,7 @@ I am <a href="https://github.com/SVillajos" target="_blank">Samuel Villajos</a>,
 <p  <!---align="center"--->   
     <a href="https://www.linkedin.com/in/samuel-villajos-garrido-26670764" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-  square&logo=Linkedin&logoColor=white"></a>
     <a href="mailto:s.villajos92@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white"></a> 
-    <a href="https://github.com/SVillajos" target="_blank"><img src="https://img.shields.io/github/followers/SVillajos?label=follow&style=social"></a> 
+    <!---<a href="https://github.com/SVillajos" target="_blank"><img src="https://img.shields.io/github/followers/SVillajos?label=follow&style=social"></a>--->
 </p>
 
 <br/>
@@ -48,6 +48,7 @@ I am <a href="https://github.com/SVillajos" target="_blank">Samuel Villajos</a>,
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=orange)
 - 🛢 &nbsp;
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=blue)
   ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
