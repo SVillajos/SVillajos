@@ -59,7 +59,7 @@ I am <a href="https://github.com/SVillajos" target="_blank">Samuel Villajos</a>,
 <diV>
   <div align="center">
     <a href="#"><img alt="Samuel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SVillajos&show_icons=true&include_all_commits=true&count_private=true&line_height=20&title_color=0D1117&icon_color=0D1117&text_color=0D1117&bg_color=FFFFFF"/></a>
-    <a href="#"><img alt="Samuel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVillajos&langs_count=10&count_private=true&layout=compact&show_icons=true&count_private=true&icon_color=0D1117&text_color=0D1117&bg_color=FFFFFF&title_color=0D1117&icon_color=0D1117"/></a>
+     <a href="#"><img alt="Samuel's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SVillajos&langs_count=10&count_private=true&show_icons=true&count_private=true&layout=compact&theme=react&hide_border=true&icon_color=0D1117&text_color=0D1117&bg_color=FFFFFF&title_color=0D1117&icon_color=0D1117"/></a>
     <br/>
   </div>
 </div>
