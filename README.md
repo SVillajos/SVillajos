@@ -16,8 +16,7 @@ I am <a href="https://github.com/SVillajos" target="_blank">Samuel Villajos</a>,
 <br/>
 
 - 👨‍💻 I am passionate about `Web Dev` & I enjoy learning new things
-- 🌱 I’m currently exploring Web Dev experience and learning everything 🤣
-- I'm 
+- 🌱 I’m currently exploring and gaining Web Dev experience and learning everything 🤣
 - 👯 I’m looking forward to collaborating on `open source projects`
 - 💬 Feel free to reach out to discuss and review code or simply to have a chat!
 - 📫 Contact me at s.villajos92@gmail.com
